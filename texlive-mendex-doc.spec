@@ -1,6 +1,6 @@
 Name:		texlive-mendex-doc
 Version:	62914
-Release:	1
+Release:	2
 Summary:	Documentation for Mendex index processor
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mendex-doc
