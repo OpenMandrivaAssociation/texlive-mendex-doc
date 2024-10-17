@@ -3,7 +3,7 @@ Version:	62914
 Release:	2
 Summary:	Documentation for Mendex index processor
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mendex-doc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mendex-doc
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mendex-doc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mendex-doc.doc.r%{version}.tar.xz
